@@ -2,12 +2,12 @@
 
 </div>
 
-## Oi, meu nome é DEYVISON e aqui estão algumas informações do meu perfil:
+## Oi, meu nome é Deyvison e aqui estão algumas informações do meu perfil:
 
 <div> <br>
   <a href="https://instagram.com/deyvisonogueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:deyvisonogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/deyvisonogueira-96812a194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/deyvisonogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 #
 <br>
