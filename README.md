@@ -20,7 +20,7 @@
 
 
 ![Snake animation](https://github.com/deyvisonogueira/deyvisonogueira/blob/output/github-contribution-grid-snake.svg)
-<br>
+ 
 
 ## 
  
