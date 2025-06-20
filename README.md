@@ -2,9 +2,11 @@
 
 ## Olá, eu sou o Deyvison! 👋
 
-Sou um entusiasta de tecnologia com forte interesse em Inteligência Artificial e desenvolvimento de software. Aqui compartilho projetos, códigos e experimentos focados em IA, automação e soluções inovadoras, além de minha jornada em programação e suporte técnico.
+Explorador do universo digital e aprendiz constante da Inteligência Artificial.  
+Transformo café ☕ em código e ideias em soluções inteligentes 🤖.  
+Aqui, você vai encontrar meus experimentos com programação, automação e aquele toque de magia da IA para tornar o futuro mais inteligente.
 
-Vamos conectar e explorar o futuro juntos! 🤖🚀
+Vamos construir juntos essa jornada de inovação e criatividade? 🚀✨
 
 <div> <br>
   <a href="https://instagram.com/deyvisonogueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
