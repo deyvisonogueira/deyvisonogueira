@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:10243A,100:0D1117&height=220&section=header&text=DEYVISON%20NOGUEIRA&fontSize=52&fontColor=58A6FF&fontAlign=50&fontAlignY=42&desc=SAP%20%C3%97%20Applied%20AI%20%C3%97%20Computer%20Vision&descSize=18&descAlignY=64&descAlign=50&animation=fadeIn&stroke=1F6FEB&strokeWidth=1" alt="Deyvison Nogueira" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:10243A,100:1F6FEB&height=230&section=header&text=DEYVISON%20NOGUEIRA&fontSize=52&fontColor=58A6FF&fontAlign=50&fontAlignY=36&desc=SAP%20%C3%97%20Applied%20AI%20%C3%97%20Computer%20Vision&descSize=18&descAlignY=56&descAlign=50&animation=fadeIn" alt="Deyvison Nogueira" width="100%"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,11 @@ class Deyvison:
     superpower = "turning messy real-world problems into processes that just work"
 
     def currently(self):
-        return ["defending my MSc thesis", "review paper under peer review", "automating consulting work with AI"]
+        return [
+            "defending my MSc thesis",
+            "review paper under peer review",
+            "automating consulting work with AI",
+        ]
 ```
 
 ---
