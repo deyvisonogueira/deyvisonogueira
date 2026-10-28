@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/deyvisonogueira">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Eu+crio+IA+que+funciona+fora+do+laborat%C3%B3rio.;E+conecto+aos+sistemas+que+as+empresas+usam.;Pesando+bois+com+uma+%C3%BAnica+foto+%F0%9F%90%84%F0%9F%93%B8;SAP+%2B+Python+%2B+Deep+Learning" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+build+AI+that+works+outside+the+lab.;Then+I+plug+it+into+the+systems+companies+run.;Weighing+cattle+from+a+single+photo+%F0%9F%90%84%F0%9F%93%B8;SAP+%2B+Python+%2B+Deep+Learning" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deyvisonogueira/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
-  <a href="mailto:deyvisonogueira@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="E-mail"/></a>
+  <a href="mailto:deyvisonogueira@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/></a>
   <a href="https://orcid.org/0009-0002-5725-9526"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
   <a href="https://instagram.com/deyvisonogueira"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 </p>
@@ -19,47 +19,47 @@
 
 ### `> whoami`
 
-A maioria dos projetos de IA morre num notebook. A maioria dos sistemas corporativos nunca conhece a IA.  
-**Eu trabalho exatamente onde esses dois mundos se encontram.**
+Most AI projects die in a notebook. Most enterprise systems never meet AI.  
+**I work right where those two worlds collide.**
 
-No dia a dia, faço notas fiscais, pedidos de compra e documentos fiscais fluírem pelo **SAP** em grandes empresas. Na pesquisa, ensinei uma rede neural a **estimar o peso de uma vaca a partir de uma única foto de celular**, e coloquei isso no ar como uma aplicação web.
+By day, I keep invoices, purchase orders and fiscal documents flowing through **SAP** for large companies. In my research, I taught a neural network to **estimate a cow's weight from one smartphone photo**, and then shipped it as a working web app.
 
-Se você precisa de alguém que entende tanto o processo de negócio quanto o modelo por trás dele, **vamos conversar.**
+If you need someone who understands both the business process and the model behind it, **let's talk.**
 
 ```python
 class Deyvison:
     role       = "SAP Functional Analyst"
-    research   = "Visão Computacional para Pecuária · Mestrado (dupla diplomação PT/BR)"
+    research   = "Computer Vision for Livestock · MSc (dual degree PT/BR)"
     based_in   = "Bragança, Portugal"
     stack      = ["Python", "PyTorch", "scikit-learn", "ONNX", "Flask", "SAP", "ABAP", "Ruby"]
-    superpower = "transformar problemas bagunçados do mundo real em processos que simplesmente funcionam"
+    superpower = "turning messy real-world problems into processes that just work"
 
     def currently(self):
-        return ["defendendo a dissertação de mestrado", "artigo de revisão em avaliação", "automatizando consultoria com IA"]
+        return ["defending my MSc thesis", "review paper under peer review", "automating consulting work with AI"]
 ```
 
 ---
 
 ### `> why_work_with_me`
 
-| 🔗 **Dois mundos, uma pessoa** | 🧪 **Rigor acima do hype** | 🚀 **Da ideia à produção** |
+| 🔗 **Two worlds, one person** | 🧪 **Rigor over hype** | 🚀 **Idea to production** |
 |:--|:--|:--|
-| Processos corporativos (SAP MM, fiscal, integrações) **e** IA moderna. Falo as duas línguas, então nada se perde na tradução. | Divisão por animal e validação cruzada em 5 partes com testes pareados. Reporto o número que se sustenta, não o mais bonito. | Do dado bruto a um modelo exportado em ONNX e uma aplicação web no ar. Não só um notebook: algo que as pessoas usam. |
+| Enterprise processes (SAP MM, fiscal, integrations) **and** modern AI. I speak both languages, so nothing gets lost in translation. | Per-animal splits and 5-fold cross-validation with paired tests. I report the number that holds up, not the one that looks best. | From raw data to a model exported to ONNX and a live web app. Not just a notebook: something people can use. |
 
 ---
 
 ### `> featured_research`
 
-**🐄 Visão computacional para estimar o peso de bovinos sem balança**  
-*Dissertação de mestrado · Universidade Politécnica de Bragança × IF Sul de Minas · projeto PECOViSiA*
+**🐄 Computer vision for non-invasive cattle weight estimation**  
+*MSc dissertation · Polytechnic University of Bragança × IF Sul de Minas · PECOViSiA project*
 
-Pesar gado na balança é caro, lento e estressante para o animal. Eu testei até onde **uma foto comum** consegue chegar.
+Weighing cattle on a scale is expensive, slow and stressful for the animal. I tested how far **one ordinary photo** can go.
 
-- 📊 Erro médio de **24,4 kg** (MAPE de 15,8%) com a ResNet18, em validação cruzada rigorosa de 5 partes, por animal
-- ⚖️ Comparei **ResNet, EfficientNet, MobileNetV3, fusão de vistas, segmentação e ensembles de árvores** no mesmo protocolo
-- 💡 Principal achado: com cerca de 1.500 animais, o gargalo são os **dados**, não a arquitetura
-- 🌐 Entregue como **protótipo web** (ONNX + Flask) que estima o peso a partir de uma única foto
-- 📄 Artigo de revisão *"Computer vision and artificial intelligence for non-invasive cattle weight estimation: A review"*, em avaliação na **Smart Agricultural Technology** (Elsevier)
+- 📊 **24.4 kg** mean error (MAPE 15.8%) with ResNet18, under strict five-fold, per-animal cross-validation
+- ⚖️ Benchmarked **ResNet, EfficientNet, MobileNetV3, view fusion, segmentation and tree ensembles** on the same protocol
+- 💡 Key insight: with ~1,500 animals, the bottleneck is the **data**, not the architecture
+- 🌐 Shipped as a **web prototype** (ONNX + Flask) that estimates weight from a single photo
+- 📄 Review article *"Computer vision and artificial intelligence for non-invasive cattle weight estimation: A review"*, under review at **Smart Agricultural Technology** (Elsevier)
 
 ---
 
@@ -96,7 +96,7 @@ Pesar gado na balança é caro, lento e estressante para o animal. Eu testei at�
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisonogueira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deyvisonogueira&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+  <img src="https://streak-stats.demolab.com?user=deyvisonogueira&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deyvisonogueira&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%"/>
@@ -105,8 +105,8 @@ Pesar gado na balança é caro, lento e estressante para o animal. Eu testei at�
 ---
 
 <p align="center">
-  <b>Trabalha com IA aplicada, agritech ou SAP + IA?</b><br>
-  Estou sempre pronto para um bom problema. <a href="https://www.linkedin.com/in/deyvisonogueira/">Me manda uma mensagem</a> ☕
+  <b>Working on applied AI, agritech or SAP + AI?</b><br>
+  I'm always up for a good problem. <a href="https://www.linkedin.com/in/deyvisonogueira/">Send me a message</a> ☕
 </p>
 
 <p align="center">
