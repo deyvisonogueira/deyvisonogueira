@@ -92,14 +92,14 @@ Weighing cattle on a scale is expensive, slow and stressful for the animal. I te
 ### `> git_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deyvisonogueira&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisonogueira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="95%"/>
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="170"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" height="170"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deyvisonogueira&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deyvisonogueira&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%"/>
 </p>
 
 ---
